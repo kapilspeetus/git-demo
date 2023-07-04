@@ -1,7 +1,0 @@
-Hello,
-
-Hope you are doing greate, This is Git folder.
-We push this folder to the git-demo on the git
-
-Kind Regards-
-KP

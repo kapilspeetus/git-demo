@@ -1,8 +1,0 @@
-Hello Reader
-Hope you are doing fine
-
-This folder which cotains the javacode which is use to convert base64 stirng value to .zip file.
-
-Thanks
-
-KP
