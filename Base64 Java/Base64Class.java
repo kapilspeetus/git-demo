@@ -1,3 +1,7 @@
+/*
+	Input  :- Base64 code in string for zip
+	Output :- Get .Zip file after execution.
+*/
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Base64;
